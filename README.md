@@ -20,9 +20,3 @@ To use these queries, connect to your MySQL database and execute the desired que
 Make sure to adjust the table names (coviddeaths and covidvaccination) if they differ in your database.
 Feel free to modify and customize the queries as needed to suit your specific analysis requirements.
 
-Contributing:
-Contributions to this project are welcome. If you have any improvements, additional queries, or bug fixes, feel free to submit a pull request. Please ensure that the code changes are well-documented and tested.
-
-License:
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code within the terms of this license.
-Please note that while the queries provided in this repository are intended to be useful and reliable, it is recommended to verify the results and adapt them to your specific needs and data.
